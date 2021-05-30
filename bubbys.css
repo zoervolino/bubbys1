@@ -1,0 +1,8 @@
+body {
+ background-image: url("old-brick-wall.jpg");
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+ background-attachment: scroll;
+ background-position: top;;
+}
+
