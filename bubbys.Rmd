@@ -12,6 +12,14 @@ self_contained: false
 
 css: bubbys.css
 ---
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+    background-color:Crimson;
+}
+</style>
 <html>
   <head>
   <script src="script.js" async>
@@ -21,3 +29,4 @@ css: bubbys.css
     <div id="sketchpad"></div>
   </body>
 </html>
+
