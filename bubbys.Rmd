@@ -31,9 +31,11 @@ css: bubbys.css
 
 
 <html>
-  <a href="wall.html"
    <body>
-      <img src="/Users/zoeervolino/Documents/zoe/bubbys1/logo.png" alt="Proudly serving pie since 1990" width="200" height="80">
+     <a href="wall.html">
+    <img src="/Users/zoeervolino/Documents/zoe/bubbys1/logo.png" alt="Proudly serving pie since 1990" width="200" height="80">
+    </a>
    </body>
 </html>
+
 
