@@ -17,7 +17,6 @@ css: bubbys.css
   max-width: 1800px;
   margin-left: auto;
   margin-right: auto;
-    background-color:Crimson;
 }
 </style>
 <html>
@@ -28,5 +27,13 @@ css: bubbys.css
   <body>
     <div id="sketchpad"></div>
   </body>
+</html>
+
+
+<html>
+
+   <body>
+      <img src="/Users/zoeervolino/Documents/zoe/bubbys1/logo.png" alt="Simply Easy Learning" width="200" height="80">
+   </body>
 </html>
 
