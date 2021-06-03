@@ -12,29 +12,27 @@ self_contained: false
 
 css: bubbys.css
 ---
-<style type="text/css">
-.main-container {
-  max-width: 1800px;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
+
 <html>
   <head>
+  <style type="text/css">
+  .main-container {
+   max-width: 1800px;
+   margin-left: auto;
+   margin-right: auto;
+  }
+</style>
+
   <script src="script.js" async>
   </script>
+  <title>Bubby's Tribeca</title>
   </head>
-  <body>
-    <div id="sketchpad"></div>
-  </body>
-</html>
 
-
-<html>
    <body>
      <a href="https://zoervolino.github.io/bubbys1/wall.html">
     <img src="/Users/zoeervolino/Documents/zoe/bubbys1/logo.png" alt="Proudly serving pie since 1990" width="400" height="160">
     </a>
+    <div id="sketchpad"></div>
    </body>
 </html>
 
